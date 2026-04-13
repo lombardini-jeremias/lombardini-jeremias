@@ -1,9 +1,5 @@
 # 👋 Hello!
-I’m currently working on building a full-stack developer career, focusing on web applications with AngularJS - ReactJS and Node.js - NestJS. I'm also exploring Web3 development to dive into decentralized applications (dApps).
-- 🤝 **Looking to collaborate on Web3 projects**, particularly those involving blockchain technology, smart contracts, or decentralized finance (**DeFi**). I'd love to contribute to open-source projects in this space.
-- 🚀 **Seeking mentorship** to deepen my knowledge in blockchain development and smart contracts. If you have experience with **Ethereum** and **Solidity**, I’d be thrilled to connect and learn from you!
-- 🌱 **Currently learning** Solidity, Ethereum development, and the fundamentals of decentralized applications (dApps) to broaden my skills in Web3.<br>
-
+I’m currently working on building a full-stack developer career, focusing on web applications with Angular - React - Vue and Node - NestJS.
 ## 🌐 Socials: 
 <a href="https://linkedin.com/in/lombardini-jeremias" target="_blank">![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)</a> <a href="mailto:lombardini.jeremias@gmail.com" target="_blank">![GMAIL](https://skillicons.dev/icons?i=gmail&theme=dark)</a>
 
