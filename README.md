@@ -25,8 +25,6 @@ I’m currently working on building a full-stack developer career.
 [![My Skills](https://skillicons.dev/icons?i=git,postman,jest,docker&theme=dark)](https://skillicons.dev)
 
 # 📊 **Stats**
-![GitBlend Contributions](https://gitblend.com/api/contributions?username=lombardini-jeremias&theme=dark)
-
 ![GitLab Contributions](https://gitblend.com/api/contributions?username=lombardini-jeremias&theme=dark)
 
 ---
