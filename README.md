@@ -23,7 +23,6 @@ I’m currently working on building a full-stack developer career.
 
 ### **Services**
 [![My Skills](https://skillicons.dev/icons?i=git,postman,jest,docker&theme=dark)](https://skillicons.dev)
-![POSTMAN](https://skillicons.dev/icons?i=postman&theme=dark)
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lombardini-jeremias&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
