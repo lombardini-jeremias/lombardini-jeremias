@@ -26,7 +26,7 @@ I’m currently working on building a full-stack developer career.
 
 # 📊 **Stats**
 ## 🔥 Contribution graph
-![GitBlend Contributions](https://gitblend.com/api/contributions?username=lombardini-jeremias)
+![GitBlend Contributions](https://gitblend.com/api/contributions?username=lombardini-jeremias&theme=dark)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lombardini-jeremias&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=lombardini-jeremias&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
