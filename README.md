@@ -25,11 +25,6 @@ I’m currently working on building a full-stack developer career.
 [![My Skills](https://skillicons.dev/icons?i=git,postman,jest,docker&theme=dark)](https://skillicons.dev)
 
 # 📊 **Stats**
-## 🔥 Contribution graph
 ![GitBlend Contributions](https://gitblend.com/api/contributions?username=lombardini-jeremias&theme=dark)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lombardini-jeremias&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=lombardini-jeremias&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=lombardini-jeremias&theme=dark&hide_border=false)
 
 ---
